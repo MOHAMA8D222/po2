@@ -1,0 +1,14 @@
+.imag-pick{
+    width: 296px;
+    height:214px;
+    border-radius: 10px; 
+    display:none;
+}
+@media only screen and (max-width:1115px){
+    .imag-pick{
+        display:block;
+    }
+    .img-1{
+        display:none;
+    }
+}
